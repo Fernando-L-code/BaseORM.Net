@@ -1,0 +1,6 @@
+@ModeloBaseORM_HostAddress = http://localhost:5106
+
+GET {{ModeloBaseORM_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
